@@ -1,0 +1,17 @@
+.banner, .banner-img{
+    height: 100vh;
+}
+nav{
+    background-color: #c1ffbc;
+}
+.avatar img{
+    width: 128px;
+    height: 128px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.work-img{
+    height: 250px;
+}
